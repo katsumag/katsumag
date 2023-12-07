@@ -1,9 +1,8 @@
 ### Hi, I'm katsumag
 
 ## I'm a developer, specialising in Java, Kotlin, and Python.
-- 🔭 I’m currently working on a framework to simplify interaction with the Spigot API! [ASF]
-- 🌱 I’m currently learning to use the Spring framework.
-- 🥅 2020 Goals: Compete in the repl.it Language jam, contribute to some open source projects.
+- 🔭 I’m currently learning to use the Spring framework to build backend web projects utilising a microservices architecture 
+- 🌱 I’m currently learning to use Kubernetes to run and scale microservice-based applications
 
 ### Connect with me:
 
@@ -21,7 +20,9 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/1200px-Java-Logo.svg.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="IntelliJ IDEA" width="26px" src="https://cdn.katsumag.me/logos/IntelliJ_IDEA_Logo.svg" />
+<img align="left" alt="Spring" width="26px" src="https://spring.io/img/spring.svg" />
+<img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-2.svg" />
+<img align="left" alt="Kubernetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
@@ -29,8 +30,5 @@
 
 ---
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=katsumag&show_icons=true&hide_border=true" />
-
 [website]: https://katsumag.me
 [discord]: https://discord.gg/CHA9zq6
-[ASF]: https://github.com/katsumag/aspigotframework/
